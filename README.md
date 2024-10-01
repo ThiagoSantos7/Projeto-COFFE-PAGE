@@ -15,5 +15,10 @@
 <br>
 <br>
 <img src="https://github.com/ThiagoSantos7/Projeto-COFFE-PAGE/blob/main/img/2024-10-01%20(10).png?raw=true"/>
-
+<br>
+<br>
+<h3>Este é um cardapio modelo...</h3>
+<br>
+<br>
+<img src="https://github.com/ThiagoSantos7/Projeto-COFFE-PAGE/blob/main/img/2024-10-01%20(12).png?raw=true"/>
 
